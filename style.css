@@ -1,5 +1,5 @@
 :root{
---branco: rgb(255, 255, 255);
+--branco: rgb(254, 219, 255);
 --cor-de-fundo: #350652;
 --fundo-senha: #60177c;
 --fundo-texto: #45135c;
@@ -142,7 +142,7 @@ font-size: 20px;
 }
 
 .forte {
-    background-color: #d400ff;
+    background-color: #bc52d1;
     width: 100%;
 }
 
