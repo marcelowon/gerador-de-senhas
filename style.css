@@ -115,11 +115,3 @@ font-size: 24px;
 label {
 font-size: 20px;
 }
-1 comentário para a turma
-
-VINICIUS GABRIEL MAZZUCO BUSATTA09:40
-@media screen and (min-width: 768px) {
-.parametro-coluna__senha{
-flex-direction: row;
-}
-}
